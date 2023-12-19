@@ -1,0 +1,37 @@
+{
+    "regioes": {
+      "Florianopolis": {
+        "latitude": -27.5954,
+        "longitude": -48.5480
+      },
+      "Joinville": {
+        "latitude": -26.3045,
+        "longitude": -48.8461
+      },
+      "Blumenau": {
+        "latitude": -26.9155,
+        "longitude": -49.0703
+      },
+      "Chapeco": {
+        "latitude": -27.1005,
+        "longitude": -52.6152
+      },
+      "Criciuma": {
+        "latitude": -28.6723,
+        "longitude": -49.3726
+      },
+      "Lages": {
+        "latitude": -27.8130,
+        "longitude": -50.3260
+      },
+      "Itajai": {
+        "latitude": -26.9106,
+        "longitude": -48.6705
+      },
+      "SaoMigueldoOeste": {
+        "latitude": -26.7242,
+        "longitude": -53.5165
+      }
+    }
+  }
+  
