@@ -1,24 +1,24 @@
 {
     "type": "FeatureCollection",
     "features": [
-      {
-        "type": "Feature",
-        "properties": {
-          "regiao": "Florianopolis"
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
-            [
-              [-48.5780, -27.6254],
-              [-48.5180, -27.5654],
-              [-48.4780, -27.6254],
-              [-48.5180, -27.6854],
-              [-48.5780, -27.6254]
-            ]
-          ]
-        }
-      },
+        {
+            "type": "Feature",
+            "properties": {
+              "regiao": "Grande Florianopolis"
+            },
+            "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                [
+                  [-48.7520, -27.6760],
+                  [-48.4800, -27.6760],
+                  [-48.4800, -27.9420],
+                  [-48.7520, -27.9420],
+                  [-48.7520, -27.6760]
+                ]
+              ]
+            }
+          },
       {
         "type": "Feature",
         "properties": {
