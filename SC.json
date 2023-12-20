@@ -1,37 +1,86 @@
 {
-    "regioes": {
-      "Florianopolis": {
-        "latitude": -27.5954,
-        "longitude": -48.5480
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "regiao": "Florianopolis"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-48.5480, -27.5954]
+        }
       },
-      "Joinville": {
-        "latitude": -26.3045,
-        "longitude": -48.8461
+      {
+        "type": "Feature",
+        "properties": {
+          "regiao": "Joinville"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-48.8461, -26.3045]
+        }
       },
-      "Blumenau": {
-        "latitude": -26.9155,
-        "longitude": -49.0703
+      {
+        "type": "Feature",
+        "properties": {
+          "regiao": "Blumenau"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-49.0703, -26.9155]
+        }
       },
-      "Chapeco": {
-        "latitude": -27.1005,
-        "longitude": -52.6152
+      {
+        "type": "Feature",
+        "properties": {
+          "regiao": "Chapeco"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-52.6152, -27.1005]
+        }
       },
-      "Criciuma": {
-        "latitude": -28.6723,
-        "longitude": -49.3726
+      {
+        "type": "Feature",
+        "properties": {
+          "regiao": "Criciuma"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-49.3726, -28.6723]
+        }
       },
-      "Lages": {
-        "latitude": -27.8130,
-        "longitude": -50.3260
+      {
+        "type": "Feature",
+        "properties": {
+          "regiao": "Lages"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-50.3260, -27.8130]
+        }
       },
-      "Itajai": {
-        "latitude": -26.9106,
-        "longitude": -48.6705
+      {
+        "type": "Feature",
+        "properties": {
+          "regiao": "Itajai"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-48.6705, -26.9106]
+        }
       },
-      "SaoMigueldoOeste": {
-        "latitude": -26.7242,
-        "longitude": -53.5165
+      {
+        "type": "Feature",
+        "properties": {
+          "regiao": "SaoMigueldoOeste"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-53.5165, -26.7242]
+        }
       }
-    }
+    ]
   }
   
