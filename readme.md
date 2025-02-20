@@ -19,7 +19,7 @@ Sou movido por desafios e pela busca constante de conhecimento. Acredito que a m
 ### 🛠️ Ferramentas  
 - **Linguagens**: Python, SQL, C#  
 - **BI & Data Visualization**: Power BI, Tableau, Data Studio, Qlik Sense, Excel  
-- **Automação & ETL**: PyAutoGUI, Playwright, Pandas  
+- **Automação & ETL**: PyAutoGUI, Playwright, Pandas, Pentaho, Spark. 
 - **Machine Learning**: Modelagem estatística, séries temporais  
 - **Game Development**: Unity (C#)  
 - **Trading & Automação**: MetaTrader 5 (C#)  
