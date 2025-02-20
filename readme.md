@@ -13,12 +13,19 @@ Sou movido por desafios e pela busca constante de conhecimento. Acredito que a m
 - Visualização e storytelling com dados  
 - SQL para extração e manipulação de grandes volumes de dados  
 - Desenvolvimento de dashboards interativos  
+- Desenvolvimento de jogos com **Unity e C#**  
+- Criação de robôs para **MetaTrader 5 com C#**  
 
 ### 🛠️ Ferramentas  
-- **Linguagens**: Python, SQL  
+- **Linguagens**: Python, SQL, C#  
 - **BI & Data Visualization**: Power BI, Tableau, Data Studio, Qlik Sense, Excel  
 - **Automação & ETL**: PyAutoGUI, Playwright, Pandas  
 - **Machine Learning**: Modelagem estatística, séries temporais  
+- **Game Development**: Unity (C#)  
+- **Trading & Automação**: MetaTrader 5 (C#)  
+
+### 🎮 Projetos  
+- **Meu primeiro jogo na Steam**: [Broken World: Save Your Children](https://store.steampowered.com/app/3312730/Broken_World_Save_Your_Children/)  
 
 ### 💡 Competências Comportamentais  
 - Resiliência e adaptação  
