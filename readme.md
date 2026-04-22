@@ -26,7 +26,7 @@ Sou movido por desafios e pela busca constante de conhecimento. Acredito que a m
 
 ### 🎮 Projetos  
 - **Meu primeiro jogo na Steam**: [Broken World: Save Your Children](https://store.steampowered.com/app/3312730/Broken_World_Save_Your_Children/)  
-- **Sinal Forex GBP/JPY**: https://www.mql5.com/pt/signals/2331120
+- **Robo Automação Trade Para Forex USD/JPY**: https://www.mql5.com/en/market/product/168592
 - **Robo Automação Trade Para Forex GBP/JPY**: https://www.mql5.com/pt/market/product/149019
 
 ### 💡 Competências Comportamentais  
