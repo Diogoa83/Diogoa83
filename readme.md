@@ -1,6 +1,6 @@
 ## Sobre mim  
 
-Sou **graduado em Economia com especialização em Ciência de dados e Estatistica aplicada** e certificado em **Data Science e Business Intelligence** pelos cursos intensivos da Alura. Minha trajetória profissional é pautada pelo desenvolvimento de soluções analíticas e automação de processos, sempre buscando otimizar a tomada de decisões por meio de dados.  
+Sou **Economista com especialização em Ciência de dados e Estatistica aplicada** e certificado em **Data Science e Business Intelligence** pelos cursos intensivos da Alura. Minha trajetória profissional é pautada pelo desenvolvimento de soluções analíticas e automação de processos, sempre buscando otimizar a tomada de decisões por meio de dados.  
 
 Tenho experiência consolidada em **análises estatísticas, modelagem preditiva e criação de dashboards interativos**, utilizando ferramentas como **Python, Power BI, SQL e ETL**. Possuo um perfil analítico e crítico, com uma forte intuição quantitativa, o que me permite atuar como **pesquisador na área de dados e finanças**.  
 
